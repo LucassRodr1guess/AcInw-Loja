@@ -1,6 +1,10 @@
 import React from 'react';
+import imagens from '../assets/Instagram.svg'
+import imagensF from '../assets/Facebook.svg'
+import imagensT from '../assets/Twitter.svg'
 
-function Rodape() {
+
+function Rodape() { 
   return (
     <footer className="bg-dark text-light">
     <div className="container py-5">
@@ -23,9 +27,9 @@ function Rodape() {
         <div className="col-lg-4">
           <h5>Redes Sociais</h5>
           <ul className="list-unstyled">
-            <li><a href="#"><i className="fab fa-facebook"></i> Facebook</a></li>
-            <li><a href="#"><i className="fab fa-twitter"></i> Twitter</a></li>
-            <li><a href="#"><i className="fab fa-instagram"></i> Instagram</a></li>
+            <img src={imagens} alt="" /><br />
+            <img src={imagensF} alt="" /><br/>
+            <img src={imagensT} alt="" />
           </ul>
         </div>
       </div>

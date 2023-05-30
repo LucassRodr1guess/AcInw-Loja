@@ -1,0 +1,11 @@
+.produtosHome{
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+.contato{
+    display: flex;
+    align-items: center;
+}
