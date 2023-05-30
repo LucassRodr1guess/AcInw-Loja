@@ -10,8 +10,8 @@ function CarouselFadeExample() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>Seja bem-vindo</h3>
+          <p>Aqui na The Wave temos diversos produtos de extrema qualidade, que são ideais para você!</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -22,8 +22,8 @@ function CarouselFadeExample() {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Nossos produtos</h3>
+          <p>Produtos ideais para quem quer ter a melhor experiência no surf</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -34,9 +34,9 @@ function CarouselFadeExample() {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3></h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            
           </p>
         </Carousel.Caption>
       </Carousel.Item>

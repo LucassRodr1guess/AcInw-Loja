@@ -15,9 +15,9 @@ function Rodape() {
           <h5>Links Úteis</h5>
           <ul className="list-unstyled">
             <li><a href="/">Página Inicial</a></li>
-            <li><a href="/produtos">Produtos</a></li>
-            <li><a href="/contato">Contato</a></li>
-            <li><a href="/sobre">Sobre Nós</a></li>
+            <li><a href="/sobre">Produtos</a></li>
+            <li><a href="/Contato">Contato</a></li>
+            <li><a href="/sobrenos">Sobre Nós</a></li>
           </ul>
         </div>
         <div className="col-lg-4">

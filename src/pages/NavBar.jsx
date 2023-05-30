@@ -14,11 +14,11 @@ function NavBar() {
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/Contato">Contato</Nav.Link>
             <Nav.Link href="/Sobre">Produtos</Nav.Link>
+            <Nav.Link href="/SobreNos">Sobre</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
     </Navbar>
   );
 }
-
 export default NavBar;

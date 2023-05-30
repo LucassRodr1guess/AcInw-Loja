@@ -8,9 +8,7 @@ function Produtos(){
         <NavBar/>
         <Sobre/>
         <Rodape/>
-
     </div>
-        
     );
 }
 export default Produtos

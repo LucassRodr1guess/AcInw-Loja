@@ -4,11 +4,7 @@ import NavBar from './NavBar';
 
 function Sobre(){
     return(
-
         <div>
-            
-       
-
         <div>
             <h1>Produtos</h1>
         </div>
@@ -23,7 +19,8 @@ function Sobre(){
         <Button variant="primary">Go somewhere</Button>
       </Card.Body>
     </Card>
-
+    <div>
+    </div>
          </div>
     );
 }
